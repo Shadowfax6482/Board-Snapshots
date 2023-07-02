@@ -1,7 +1,7 @@
 # Board-Snapshots
 List of sound board snapshots i've accumulated over time.
 
-FIle nameing scheme.  [event]-[console]-[FOH or MON]-[Date].filetype  
+FIle nameing scheme.  [event]-[console]-[FOH or MON]-[Date]-[Note].filetype  
 ```Example: JI-CL3-FOH_1-2-22.clf```
 
 ### Abreviation Key:
